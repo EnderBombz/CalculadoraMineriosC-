@@ -1,0 +1,9 @@
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\bin\Debug\CalculadoraMinerios.exe.config
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\bin\Debug\CalculadoraMinerios.exe
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\bin\Debug\CalculadoraMinerios.pdb
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\obj\Debug\CalculadoraMinerios.Form_Calculador.resources
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\obj\Debug\CalculadoraMinerios.Properties.Resources.resources
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\obj\Debug\CalculadoraMinerios.csproj.GenerateResource.cache
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\obj\Debug\CalculadoraMinerios.exe
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\obj\Debug\CalculadoraMinerios.pdb
+C:\Users\Gabriel Martani\source\repos\CalculadoraMinerios\CalculadoraMinerios\obj\Debug\CalculadoraMinerios.Creditos.resources
